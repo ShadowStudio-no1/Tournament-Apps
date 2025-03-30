@@ -22,48 +22,12 @@ This repository serves as the central hub for our full-stack tournament manageme
 - **Database**: Hosting H Penal
 - **Version Control**: Git
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Android Studio
-- PHP 7.4 or higher
-- Composer
-- MySQL Database
-
-### Installation Steps
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/Tournament-Apps.git
-   ```
-2. Install dependencies
-   ```bash
-   composer install
-   ```
-3. Configure environment variables
-   ```bash
-   cp .env.example .env
-   php artisan key:generate
-   ```
-4. Run the application
-   ```bash
-   php artisan serve
-   ```
-
-## 📱 Mobile App Setup
-1. Open the Android project in Android Studio
-2. Sync Gradle files
-3. Build and run the application
-
-## 🔧 Configuration
-- Update database credentials in `.env` file
-- Configure API endpoints in Android app
-- Set up push notifications
-
-## 🤝 Contributing
-We welcome contributions! Please read our contributing guidelines before submitting pull requests.
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📱 Mobile App Features
+- Tournament registration and management
+- Live match updates
+- Player/Team profiles
+- Tournament brackets and schedules
+- Real-time notifications
 
 ## 📞 Contact & Support
 - 🌐 Website: [Shadow Studio](https://shadowstudio.com)
